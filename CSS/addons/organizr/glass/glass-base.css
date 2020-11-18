@@ -670,8 +670,8 @@
   height: 100%;
 }
 #side-menu {
-    -webkit-backdrop-filter: blur(1px) !important;
-    backdrop-filter: blur(10px) !important;
+    -webkit-backdrop-filter: blur(100px) !important;
+    backdrop-filter: blur(100px) !important;
 }	
 .navbar-header {
     background: var(--div-background-color-25)    !important;
