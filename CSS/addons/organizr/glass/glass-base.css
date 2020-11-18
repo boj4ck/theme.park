@@ -413,8 +413,8 @@
 
 #speedtest-area .white-popup .panel-footer {
 	background: var(--div-background-color-25) !important;
-	border-bottom-right-radius: 15px;
-    border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 1px;
+    border-bottom-left-radius: 1px;
 }
 #speedtest-area .white-popup .panel-body,#speedtest-area .white-popup>.col-md-6>.white-box:nth-child(2) {
 	border-bottom-right-radius: 0px !important;
