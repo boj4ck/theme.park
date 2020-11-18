@@ -60,26 +60,26 @@
 	border-radius: 0 0 15px 15px;
 }
 .content-wrap section.content-current {
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
     background: rgba(0, 0, 0, 0);
 	border-radius: 0 0 15px 15px;
 }
 .panel-blue .panel-heading, .panel-info .panel-heading {
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
     background: transparent;
 
 }
 .panel .table {
     background: transparent !important;
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
 
 }
 .sttabs nav ul {
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
 	border-radius: 15px 15px 0 0;
 
 }
@@ -95,8 +95,8 @@
 }
 .bg-title {
     background: var(--div-background-color-10);
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
 
 }
 .white-box {
@@ -104,8 +104,8 @@
 }
 .white-popup-block {
     background: var(--div-background-color-10) !important;
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
 }
 
 .user-bg {
@@ -129,8 +129,8 @@
 /* Dropdown */
 .dropdown-menu {
     background: var(--div-background-color-25);
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
 
 }
 .open>.dropdown-menu {
@@ -147,8 +147,8 @@
 /* Side bar */
 .sidebar {
     background: var(--div-background-color-15) !important;
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
     box-shadow: none;
 
 }
@@ -158,22 +158,22 @@
 
 /*Calendar */
  .fc-toolbar {
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
     background: var(--div-background-color-15) !important;
 
 }
 .fc-view {
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
     background: var(--div-background-color-15) !important;
 	border-bottom-right-radius: 15px;
     border-bottom-left-radius: 15px;
 }
 .fc-popover {
     background: var(--div-background-color-25);
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
 
 }
 #homepageOrdercalendar .fc-toolbar {
@@ -192,8 +192,8 @@
 /*Error page */
 .error-body {
     padding-top: 15%;
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
     height: -webkit-fill-available;
     margin-top: -10%;
 
@@ -205,24 +205,24 @@
     border: none;
     background: var(--div-background-color-25) !important;
     border-bottom: transparent;
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
 
 }
 .iziToast.warning-notify.iziToast-layout2 {
     background: var(--div-background-color-25);
     border: 1px solid transparent;
     border-bottom: transparent;
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
 
 }
 .iziToast:after {
     background: transparent !important;
 }
 .mfp-container {
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
 
 }
 .mfp-zoom-out.mfp-ready.mfp-bg {
@@ -253,8 +253,8 @@
 /* Homepage downloader */
 
 #homepageOrderdownloader {
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
     background: var(--div-background-color-15);
     padding: 10px;
 	border-radius: 15px;
@@ -272,8 +272,8 @@
     background: var(--div-background-color-15) !important;
     -webkit-box-shadow: none;
     box-shadow: none;
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
 	border-radius: 15px;
 
 }
@@ -306,8 +306,8 @@
 }
 
 #plexRecent, #homepageOrderplexplaylist, #homepageOrdercalendar, #homepageOrderembyrecent, #ombi-requests, #homepageOrderdeluge, #homepageOrdernzbget, #homepageOrdertransmission, #homepageOrderrTorrent, #homepageOrderjdownloader, #homepageOrdersabnzbd,#homepageOrderqBittorrent  {
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
     background: var(--div-background-color-15);
     margin: 5px;
     border-radius: 15px;
@@ -319,8 +319,8 @@
 /* Health checks */
 .card-body {
     background: var(--div-background-color-25) !important;
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
 
 }
 .bg-inverse .healthPosition {
@@ -333,8 +333,8 @@
 /* Unifi cards */
 .unifiCards .panel-wrapper.collapse.in {
     background: var(--div-background-color-15);
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
 	border-bottom-right-radius: 15px;
 	border-bottom-left-radius: 15px;
 
@@ -344,8 +344,8 @@
     color: #fff !important;
     border-color: transparent !important;
     text-align: inherit !important;
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
 	border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 	border-bottom: 0px;
@@ -381,8 +381,8 @@
     }
 /* Custom HTML */    
     #homepageOrdercustomhtmlTwo, #homepageOrdercustomhtml {
-        -webkit-backdrop-filter: blur(1px);
-        backdrop-filter: blur(1px);
+        -webkit-backdrop-filter: blur(10px);
+        backdrop-filter: blur(10px);
         background: var(--div-background-color-15);
         border-radius: 15px;
         padding-left: 10px;
@@ -423,8 +423,8 @@
 /* Modal */
 .modal-content, .modal-header, .modal-footer, .modal-body {
     background: var(--div-background-color-10) !important;
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
 	border-color: transparent;
 }
 .modal-body {
@@ -459,8 +459,8 @@
 @media (max-width: 480px) {
    .login-box.login-sidebar {
     background: var(--div-background-color-15) !important;
-    -webkit-backdrop-filter:  blur(1px);
-    backdrop-filter:  blur(1px);
+    -webkit-backdrop-filter:  blur(10px);
+    backdrop-filter:  blur(10px);
 
 }
 }
@@ -490,8 +490,8 @@
 	
     .login-register > .login-box > .white-box {
     background: var(--div-background-color-25) !important;
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
     border-radius: 15px;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -582,8 +582,8 @@
 		background: var(--div-background-color-25);
 		-webkit-box-shadow: none;
 		box-shadow: none;
-		-webkit-backdrop-filter: blur(1px);
-		backdrop-filter: blur(1px);
+		-webkit-backdrop-filter: blur(10px);
+		backdrop-filter: blur(10px);
 		border-radius: 15px;
     }
     .form-control::placeholder {
@@ -610,8 +610,8 @@
 /* Extra */
 .cbutton {
     background-color: var(--div-background-color-25) !important;
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
 	border-radius: 15px !important;
 	border: none !important;
 	padding: 4px !important;
@@ -648,8 +648,8 @@
 }
 /* Swal popup */
 .swal-overlay--show-modal .swal-modal {
-    -webkit-backdrop-filter: blur(1px);
-    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
     background: var(--div-background-color-25);
     border-radius: 15px;
 }
@@ -670,13 +670,13 @@
   height: 100%;
 }
 #side-menu {
-    -webkit-backdrop-filter: blur(1px) !important;
-    backdrop-filter: blur(1px) !important;
+    -webkit-backdrop-filter: blur(10px) !important;
+    backdrop-filter: blur(10px) !important;
 }	
 .navbar-header {
     background: var(--div-background-color-25)    !important;
-	    -webkit-backdrop-filter: blur(1px) !important;
-    backdrop-filter: blur(1px) !important;
+	    -webkit-backdrop-filter: blur(10px) !important;
+    backdrop-filter: blur(10px) !important;
 }
 .navbar-default {
     background: var(--mobile-bg-color);
@@ -684,8 +684,8 @@
 }
 
 #internal-Settings {
-    -webkit-backdrop-filter: blur(1px) !important;
-    backdrop-filter: blur(1px) !important;
+    -webkit-backdrop-filter: blur(10px) !important;
+    backdrop-filter: blur(10px) !important;
     background: var(--mobile-bg-color) !important;
 }
 .mfp-zoom-out.mfp-ready.mfp-bg {
