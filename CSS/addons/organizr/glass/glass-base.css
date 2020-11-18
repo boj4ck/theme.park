@@ -42,7 +42,7 @@
     color: black !important;
 }
 .row-in i {
-    font-size: 44px;
+    font-size: 24px;
     color: black;
 }
 .profile-social-icons a {
@@ -670,7 +670,7 @@
   height: 100%;
 }
 #side-menu {
-    -webkit-backdrop-filter: blur(10px) !important;
+    -webkit-backdrop-filter: blur(1px) !important;
     backdrop-filter: blur(10px) !important;
 }	
 .navbar-header {
